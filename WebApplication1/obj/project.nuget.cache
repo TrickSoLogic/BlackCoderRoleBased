@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3bvt3JeqNMyj7QHbGWF0nEJpq3+OYC2kw7DbWGf97+79s+NDQgzstnMzymNeYYELf4i3IaW3Rr9bpx4u88xlw==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\1New GIT Upload List proj\\aspnetcore6_security-main\\role-based\\WebApplication1\\BlackCoderRoleBased.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.1\\microsoft.aspnetcore.authentication.negotiate.6.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.1\\microsoft.aspnetcore.connections.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.features\\6.0.1\\microsoft.extensions.features.6.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\system.directoryservices.protocols\\6.0.0\\system.directoryservices.protocols.6.0.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\system.io.pipelines\\6.0.1\\system.io.pipelines.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
